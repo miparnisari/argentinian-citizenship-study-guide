@@ -76,10 +76,11 @@ There's a province in Argentina, Cordoba, that is famous for drinking "fernet", 
 
 ## Sports
 
-Football is the most popular by far. We won 2 FIFA World Cups:
+Football is the most popular by far. We won 3 FIFA World Cups:
 
-- Argentina 1978 (which was arranged by the military dictatorship at the time) 
+- Argentina 1978 (which was probably arranged by the military dictatorship at the time) 
 - Mexico 1986
+- Qatar 2022
 
 ## People
 
